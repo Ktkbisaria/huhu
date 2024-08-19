@@ -1,0 +1,41 @@
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*.log
+logs/*.txt
+
+# IDE files
+.idea
+*.iml
+*.suo
+*.cache
+*.user
+*.jps
+
+# Build artifacts
+build/
+dist/
+target/
+*.war
+*.ear
+*.jar
+
+# Test results
+**/test-results/
+**/coverage/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+/vendor/
+
+# Database files
+*.db
+*.sqlite
+*.sql
+
+# Temporary files
+*.tmp
+*.swp
